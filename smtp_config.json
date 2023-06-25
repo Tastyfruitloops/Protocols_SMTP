@@ -1,0 +1,8 @@
+{
+  "login": "yandex login",
+  "password": "yandex password",
+  "from": "sender mail",
+  "to": "receiver mail",
+  "subject": "Testtt",
+  "attachment": "foldername"
+}
